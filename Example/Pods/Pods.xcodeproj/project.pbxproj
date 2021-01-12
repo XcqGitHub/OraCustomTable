@@ -186,6 +186,19 @@
 			path = View;
 			sourceTree = "<group>";
 		};
+		17BAB2A125AD43BB00FF7101 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				17BAB27325AD3F4500FF7101 /* DefineFile.h */,
+				17BAB26825AD3F4500FF7101 /* Model */,
+				17BAB28325AD3F4500FF7101 /* UIView+Frame.h */,
+				17BAB27425AD3F4500FF7101 /* UIView+Frame.m */,
+				17BAB27525AD3F4500FF7101 /* View */,
+				17BAB28225AD3F4500FF7101 /* ZQHeader.h */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
 		45481CE5FA0CDA227E526A26258324A1 /* Pods-OraCustomTable_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -238,12 +251,6 @@
 		AE2A2ACFD89A85FF7F1F887EB174CBB1 /* OraCustomTable */ = {
 			isa = PBXGroup;
 			children = (
-				17BAB27325AD3F4500FF7101 /* DefineFile.h */,
-				17BAB26825AD3F4500FF7101 /* Model */,
-				17BAB28325AD3F4500FF7101 /* UIView+Frame.h */,
-				17BAB27425AD3F4500FF7101 /* UIView+Frame.m */,
-				17BAB27525AD3F4500FF7101 /* View */,
-				17BAB28225AD3F4500FF7101 /* ZQHeader.h */,
 				ED80559AC78DB4171C8D665924DB76B4 /* Pod */,
 				95A2E66808AC10E2AA1CE16A6A1948A9 /* Support Files */,
 			);
@@ -281,6 +288,7 @@
 		ED80559AC78DB4171C8D665924DB76B4 /* Pod */ = {
 			isa = PBXGroup;
 			children = (
+				17BAB2A125AD43BB00FF7101 /* Classes */,
 				FE10E0DC72862128F7554F986AD37DEE /* LICENSE */,
 				29E4D6C47D8269C351DD4E952F462E31 /* OraCustomTable.podspec */,
 				7FD4BCAA1A3ACFBDE22BAA900BE3BBA0 /* README.md */,
