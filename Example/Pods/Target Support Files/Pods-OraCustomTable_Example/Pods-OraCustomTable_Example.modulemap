@@ -1,0 +1,6 @@
+framework module Pods_OraCustomTable_Example {
+  umbrella header "Pods-OraCustomTable_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

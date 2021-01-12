@@ -1,0 +1,6 @@
+framework module OraCustomTable {
+  umbrella header "OraCustomTable-umbrella.h"
+
+  export *
+  module * { export * }
+}

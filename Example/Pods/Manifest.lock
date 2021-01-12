@@ -1,0 +1,16 @@
+PODS:
+  - OraCustomTable (0.1.0)
+
+DEPENDENCIES:
+  - OraCustomTable (from `../`)
+
+EXTERNAL SOURCES:
+  OraCustomTable:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OraCustomTable: adff7d7fc5de391579ef7f044e0c6879bce70ace
+
+PODFILE CHECKSUM: c4074781bea72b9ba3d521ba3650d91f931a10cb
+
+COCOAPODS: 1.10.0
