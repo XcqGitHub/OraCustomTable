@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'OraCustomTable_Example' do
+  pod 'OraCustomTable', :path => '../'
+
+  target 'OraCustomTable_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
